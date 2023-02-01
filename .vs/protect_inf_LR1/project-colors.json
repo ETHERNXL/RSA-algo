@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b727dc1-f170-4c3c-b94e-f0851d7bce30": {
+      "ProjectGuid": "5b727dc1-f170-4c3c-b94e-f0851d7bce30",
+      "DisplayName": "protect_inf_LR1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
